@@ -1,0 +1,1 @@
+yosys -p "tcl ../../FABulous/nextpnr/fabulous/synth/synth_fabulous_dffesr.tcl 4 $1 ./uploads/$3/$1.json" ./uploads/$3/$2
